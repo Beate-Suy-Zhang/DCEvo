@@ -7,6 +7,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2025.
 
 
 ## 更新
+[2025-03-26] 我们的CVPR开放获取论文版本已经线上更新! [[CVPR Version](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_DCEvo_Discriminative_Cross-Dimensional_Evolutionary_Learning_for_Infrared_and_Visible_Image_CVPR_2025_paper.html)]  
 [2025-03-26] 我们的论文已经线上更新！ [[arXiv 版本](https://arxiv.org/abs/2503.17673)]  
 [2025-03-26] 中译版本已更新！ [[中译版本](./pdf/CN_paper.pdf)]   
 
