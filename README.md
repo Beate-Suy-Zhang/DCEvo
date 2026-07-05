@@ -69,6 +69,14 @@ python test_task_guided_fusion.py
 ![Abstract](Figure/Segment2.png)
 
 
+## Train Pure Image Fusion  
+You can train our Pure fusion method through
+```
+python Fusion_train.py
+```
+Training dataset is available in [[BaiduNetdisk](https://pan.baidu.com/s/1xfnkQUQ-5fLT9e7XS7XV1A?pwd=msrs)].  
+
+
 ## Train Task-Guided Image Fusion  
 Training this pipeline needs to generate **RGB Pure Fusion** images in **"DCEvo/datasets/M3FD/train/images"**.
 You can train our task-guided fusion method through
