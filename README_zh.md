@@ -68,7 +68,15 @@ python test_task_guided_fusion.py
 ![Abstract](Figure/Segment2.png)
 
 
-## 训练   
+## 训练纯图像融合  
+通过以下代码，可以训练纯的图像融合：
+```
+python Fusion_train.py
+```
+训练数据集可获取： [[BaiduNetdisk](https://pan.baidu.com/s/1xfnkQUQ-5fLT9e7XS7XV1A?pwd=msrs)].  
+
+
+## 训练任务引导图像融合   
 训练此过程需要先在 **"DCEvo/datasets/M3FD/images"** 中生成 **RGB 纯融合** 图像。
 通过以下代码，可以训练任务引导的图像融合：
 ```
