@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from sleepnet import Restormer_Encoder, Restormer_Decoder, BaseFeatureExtraction, DetailFeatureExtraction
+from sleepnet import (DE_Encoder, DE_Decoder, LowFreqExtractor, HighFreqExtractor,)
 from utils.dataset import H5Dataset
 import os
 
@@ -11,7 +11,7 @@ import datetime
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader
-from utils.loss import Fusionloss, cc
+from utils.loss_fusion import Fusionloss, cc
 import kornia
 
 import numpy as np
